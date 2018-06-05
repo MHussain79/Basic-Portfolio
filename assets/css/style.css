@@ -1,0 +1,28 @@
+
+
+body {
+    background-color: white;
+ }
+
+h1  {
+    color: black;
+    text-align: center;
+    font-size: 30px;
+    font-style: italic;
+ }
+
+ p {
+   color: black;
+}
+ div {
+    height: 200px;
+    width: 50%;
+    background-color: powderblue;
+}
+
+h3 { 
+    color: black;
+}
+li { color: darkred;
+    font-style: italic;
+}
